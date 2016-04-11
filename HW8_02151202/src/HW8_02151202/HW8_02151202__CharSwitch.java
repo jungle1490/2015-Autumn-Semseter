@@ -6,7 +6,7 @@ public class HW8_02151202__CharSwitch {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//eco03 鄭琮霖 02151202
+		//eco03 鄭琮霖 02151202 
 		Scanner input=new Scanner(System.in);
 		System.out.print("Enter a Letter: ");
 		String a= input.next();
