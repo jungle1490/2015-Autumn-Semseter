@@ -6,7 +6,7 @@ public class HW7_02151202_ISBN {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//eco03 鄭琮霖 02151202
+		//eco03 鄭琮霖 02151202  
 		  
 		//ISBN
 		System.out.println("請輸入前9位數字");
