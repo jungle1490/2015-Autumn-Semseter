@@ -6,7 +6,7 @@ public class C1_whileArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//eco03 02151202 鄭琮霖
+		//eco03 02151202 鄭琮霖  
 		Scanner input=new Scanner(System.in);
 		System.out.print("你打算輸入幾個數字呢？： ");
 		int num=input.nextInt();
